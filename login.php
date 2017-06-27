@@ -11,13 +11,13 @@
 
     <form method="post" action="verifica_usuario.php">
 
-        <input type="text"     name="nome" placeholder="digite seu nome">
+        <input type="text"     name="nome" placeholder="nome">
         <br />
-        <input type="text"     name="login" placeholder="digite seu login">
+        <input type="text"     name="login" placeholder="login">
         <br />
-        <input type="password" name="senha" placeholder="digite sua senha">
+        <input type="password" name="senha" placeholder="senha">
         <br />
-        <input type="submit"   name="login_form" value="acessar">
+        <input type="submit"   name="login_form" value="entrar">
 
     </form>
 

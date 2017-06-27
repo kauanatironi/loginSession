@@ -3,12 +3,12 @@
     "id": 1,
     "login"   : "admin",
     "senha"   : "admin",
-    "nome"    : "Admnistrador"
+    "nome"    : "Admin"
   },
   {
     "id": 2,
-    "login"   : "jefferson",
-    "senha"   : "5678",
-    "nome"    : "Jefferson Chaves"
+    "login"   : "Kauana",
+    "senha"   : "9999",
+    "nome"    : "Kauana Letícia Tironi"
   }
 ]
